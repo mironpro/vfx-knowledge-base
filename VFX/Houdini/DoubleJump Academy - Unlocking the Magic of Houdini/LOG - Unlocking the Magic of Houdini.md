@@ -1,0 +1,9 @@
+ 
+
+| ID                                 | INFO                                                                                                                                                                                                                           |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| MOPs: Motion Operators for Houdini | https://motionoperators.com/                                                                                                                                                                                                   |
+| qLib Houdini                       | https://qlab.github.io/qLib/                                                                                                                                                                                                   |
+| OD Houdini Shelf Tools 2021        | https://origamidigital.com/cart/index.php?route=product/category&path=59_63<br><br>Это како-то платный инструмент (100$) говорит что очень полезный что мол закинул в Houdini много текстур и они подцепились в материал сами. |
+|                                    | HOUDINI_MMB_PAN = 0<br><br>добавляем эту строчку в houdini.env                                                                                                                                                                 |
+| Обучающий контеyт от SideFX        | https://www.sidefx.com/learn/learning-library/content/?category=25&o=-publish_date&page=1<br><br>Говорит что может пригодиться после прохождения курса                                                                         |

@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Parts_Large.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Parts_Small.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/RocketAmmo.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/RocketGun.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/RocketGun_Anim.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/RocketGun_PhysicsAsset.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/RocketGun_Skeleton.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/big_BaseColor.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/big_Emissive.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/big_Height.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/big_Metallic.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/big_Normal.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/big_Roughness.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/launcherRework_rocketCasing_BaseColor.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/launcherRework_rocketCasing_Emissive.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/launcherRework_rocketCasing_Height.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/launcherRework_rocketCasing_Metallic.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/launcherRework_rocketCasing_Normal.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/launcherRework_rocketCasing_Roughness.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/rocket2.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/small_BaseColor.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/small_Emissive.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/small_Height.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/small_Metallic.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/small_Normal.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/Materials/small_Roughness.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/M_Parts_Large.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/M_Parts_Small.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/M_Rocket.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/9/SY/TGKZD1WTL59ML1D883PN8Z.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/D/NQ/VERSK00102DMGUVUU65F5A.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/M_Parts_Large_New.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/M_Parts_Small_New.uasset",
+				"D:/VFX_KNOWLEDGE_BASE/Unreal/VFX_Unreal/Content/Weapons/RocketLauncer/M_Rocket_New.uasset"
+			]
+		}
+	]
+}
